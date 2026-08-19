@@ -52,4 +52,4 @@ if (Array.isArray(b.tests) && b.tests.length) {
 }
 
 
-//adding a comment to test the git commit and push functionality.
+//adding a comment to test the git commit and push functionality
